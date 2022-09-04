@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @penewolw
+- 👋 Hi, I’m @penewold
 - 👀 I’m interested in idk computers?
 - 🌱 I’m currently learning python and a´computers
 - 💞️ I’m looking to collaborate on nothing
